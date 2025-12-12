@@ -64,3 +64,7 @@ transition: 0.2s;
 .generate:hover {
 background: #00a6cc;
 }
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
